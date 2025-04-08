@@ -29,7 +29,7 @@ Welcome to **Weather Website** – a beautifully designed, responsive web experi
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-website.git
+   https://github.com/chetan596/Weather-App.git
    ```
 
 2. Open `index.html` in your web browser.
