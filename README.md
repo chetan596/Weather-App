@@ -36,13 +36,6 @@ Welcome to **Weather Website** – a beautifully designed, responsive web experi
 
 3. Type a city name and press enter to view the weather! 🌆
 
-## 🧠 Extra Touches (Optional Ideas)
-
-- 🌙 Dark mode toggle
-- 🧭 Auto-location support using geolocation API
-- 🎬 Weather-based animations (e.g., rain, sun effects)
-- 📊 Weekly forecast integration
-
 ## 💡 Why This Website?
 
 This isn't just another weather app – it’s a **polished desktop web experience** with thoughtful design and real usability. If you're looking to practice front-end skills, work with APIs, or showcase beautiful UI/UX, this is a perfect project. 😄
